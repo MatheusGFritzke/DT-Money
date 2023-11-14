@@ -1,68 +1,44 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Dsenevolvimento de site",
+      "description": "Salario",
+      "price": 5000,
+      "category": "Salario",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2023-11-02T01:09:20.753Z"
+      "createdAt": 1698938555613,
+      "id": 1
     },
     {
-      "id": 2,
       "description": "Hamburguer",
+      "price": 200,
+      "category": "Comida",
       "type": "outcome",
-      "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2023-11-02T01:09:31.753Z"
+      "createdAt": 1698938568854,
+      "id": 2
     },
     {
-      "id": 3,
-      "description": "Ignite",
+      "description": "Lolzito",
+      "price": 100,
+      "category": "Jogos",
       "type": "outcome",
-      "category": "Estudos",
-      "price": 1000,
-      "createdAt": "2023-11-02T01:09:51.753Z"
+      "createdAt": 1698939080204,
+      "id": 3
     },
     {
-      "description": "Desnvolvimento de site",
+      "description": "salario",
       "price": 10000,
-      "category": "Trabalho",
+      "category": "Salario",
       "type": "income",
-      "createdAt": "2023-11-02T03:06:55.708Z",
+      "createdAt": 1698939119205,
       "id": 4
     },
     {
-      "description": "Casa de show",
-      "price": 10000,
-      "category": "Festa",
-      "type": "outcome",
-      "createdAt": "2023-11-02T03:23:54.044Z",
-      "id": 5
-    },
-    {
       "description": "teste",
-      "price": 10000,
-      "category": "venda",
-      "type": "income",
-      "createdAt": 1698895659419,
-      "id": 6
-    },
-    {
-      "description": "foi",
-      "price": 12,
-      "category": "cat",
-      "type": "income",
-      "createdAt": 1698895737227,
-      "id": 7
-    },
-    {
-      "description": "zzz",
-      "price": 100,
-      "category": "loucura",
+      "price": 12312,
+      "category": "r3ete",
       "type": "outcome",
-      "createdAt": 1698897793330,
-      "id": 8
+      "createdAt": 1698939398217,
+      "id": 5
     }
   ]
 }
