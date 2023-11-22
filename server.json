@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": 1698939398217,
       "id": 5
+    },
+    {
+      "description": "Salario",
+      "price": 234,
+      "category": "teste1",
+      "type": "income",
+      "createdAt": "2023-11-22T11:39:16.121Z",
+      "id": 6
     }
   ]
 }
